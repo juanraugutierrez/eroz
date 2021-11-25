@@ -110,6 +110,10 @@ b, strong, .text-strong {
 .text-extra-strong {
   font-weight: 800;
 }
+.text-dron{
+  text-shadow:14px 14px 9px rgb(19 10 10 / 57%);
+}
+
 blockquote::before {
   color: #e0e0e0;
   content: "“";
